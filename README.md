@@ -1,6 +1,6 @@
 # Maze generator
 
-<a href="https://codeclimate.com/github/ctakahashi/maze"><img src="https://codeclimate.com/github/ctakahashi/maze/badges/gpa.svg" /></a>
+<a href="https://codeclimate.com/github/ctakahashi/mazes"><img src="https://codeclimate.com/github/ctakahashi/mazes/badges/gpa.svg" /></a>
 
 This project was done with object oriented design in mind. There is still much for me to learn,
 but I feel that I am really getting to understand the way object oriented design should work.
